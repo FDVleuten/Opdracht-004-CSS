@@ -1,0 +1,32 @@
+body  { 
+        color: red;
+}
+Ul { 
+    color: black;
+    background-color: cornsilk
+    
+}
+.black-border {
+    border: 1px solid black;
+    background-color: plum;
+}
+#green-background {
+    background-color: rgb(181, 226, 17);
+}
+h1 {
+    font-size: 48px;
+    font-weight: normal;
+}
+h2 {
+    font-size: 28px;
+    font-weight: normal;
+    color: black;
+}
+li {   
+    font-family:monospace
+} 
+p { 
+    color: blueviolet;
+    background-color: cornsilk;
+    font-family: cursive;
+}
